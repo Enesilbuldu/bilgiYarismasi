@@ -1,0 +1,10 @@
+C:\Users\ilbul\source\repos\bilgi-yarismasi\bilgi-yarismasi\bin\Debug\bilgi-yarismasi.exe.config
+C:\Users\ilbul\source\repos\bilgi-yarismasi\bilgi-yarismasi\bin\Debug\bilgi-yarismasi.exe
+C:\Users\ilbul\source\repos\bilgi-yarismasi\bilgi-yarismasi\bin\Debug\bilgi-yarismasi.pdb
+C:\Users\ilbul\source\repos\bilgi-yarismasi\bilgi-yarismasi\obj\Debug\bilgi-yarismasi.csproj.AssemblyReference.cache
+C:\Users\ilbul\source\repos\bilgi-yarismasi\bilgi-yarismasi\obj\Debug\bilgi_yarismasi.Form1.resources
+C:\Users\ilbul\source\repos\bilgi-yarismasi\bilgi-yarismasi\obj\Debug\bilgi_yarismasi.Properties.Resources.resources
+C:\Users\ilbul\source\repos\bilgi-yarismasi\bilgi-yarismasi\obj\Debug\bilgi-yarismasi.csproj.GenerateResource.cache
+C:\Users\ilbul\source\repos\bilgi-yarismasi\bilgi-yarismasi\obj\Debug\bilgi-yarismasi.csproj.CoreCompileInputs.cache
+C:\Users\ilbul\source\repos\bilgi-yarismasi\bilgi-yarismasi\obj\Debug\bilgi-yarismasi.exe
+C:\Users\ilbul\source\repos\bilgi-yarismasi\bilgi-yarismasi\obj\Debug\bilgi-yarismasi.pdb
